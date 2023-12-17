@@ -3,11 +3,11 @@
 ## Goals
 
 1. Setup the configuration for the project and have the backend & the frontend + local dev setup ✅
-2. Building the backend with Motoko (members, voting & proposals)
-3. Integrate Internet Identity for authentication
-4. Let's create a token and use ICRC_1 
-5. Finalize and tweak 
-6. Deploy it
+2. Building the backend with Motoko (members, voting & proposals)  ✅
+3. Integrate Internet Identity for authentication ✅
+4. Let's create a token and use ICRC_1 ❌
+5. Finalize and tweak ✅
+6. Deploy it on the IC ✅
 
 
 ## Getting started 
