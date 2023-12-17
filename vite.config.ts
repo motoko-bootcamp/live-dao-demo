@@ -30,6 +30,7 @@ export default defineConfig({
     svelte({
       preprocess: vitePreprocess(),
     }),
-    environment('all'),
+    environment('all',  { prefix: 'CANISTER_' }),
+    environment('all',  { prefix: 'DFX_' }),
   ],
 });

@@ -12,8 +12,9 @@
     "format": "prettier --write \"src/**/*.{json,js,jsx,ts,tsx,css,scss}\""
   },
   "dependencies": {
-    "@dfinity/auth-client": "^0.18.1",
-    "@dfinity/identity": "^0.18.1",
+    "@dfinity/agent": "^0.20.2",
+    "@dfinity/auth-client": "^0.20.2",
+    "@dfinity/identity": "^0.20.2",
     "azle": "^0.17.1",
     "svelte-routing": "^2.10.0"
   },
